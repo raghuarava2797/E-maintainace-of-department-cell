@@ -1,4 +1,4 @@
-package ranjith;
+package registry;
 
 import java.io.IOException;
 import java.sql.Connection;

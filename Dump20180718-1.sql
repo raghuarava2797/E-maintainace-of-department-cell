@@ -68,7 +68,7 @@ CREATE TABLE `faculty` (
 
 LOCK TABLES `faculty` WRITE;
 /*!40000 ALTER TABLE `faculty` DISABLE KEYS */;
-INSERT INTO `faculty` VALUES ('ranjith',1,'upendra chary','warangal','9705301969','btech','signals and system','ece','ece','male');
+INSERT INTO `faculty` VALUES ('registry',1,'upendra chary','warangal','9705301969','btech','signals and system','ece','ece','male');
 /*!40000 ALTER TABLE `faculty` ENABLE KEYS */;
 UNLOCK TABLES;
 
