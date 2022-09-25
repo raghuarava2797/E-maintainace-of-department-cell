@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="E-maintenance of department cell">
+    <output-path>$PROJECT_DIR$/out/artifacts/E_maintenance_of_department_cell</output-path>
+    <root id="archive" name="E-maintenance of department cell.war">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
